@@ -7,7 +7,8 @@ returns a distance in voxel unit.
 
 ## Installation
 
-Download [Euclidean_Distance_Transform_MT-0.1.0.jar]() to the Plugins folder and restart ImageJ.
+Download [Euclidean_Distance_Transform_MT-0.1.0.jar](https://github.com/a-r-n-o-l-d/Euclidean_Distance_Transform_MT/tree/master/lib/build/libs)
+to the Plugins folder and restart ImageJ.
 
 ## Usage
 
